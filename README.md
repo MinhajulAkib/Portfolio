@@ -1,2 +1,37 @@
-# Portfolio
-Portfolio – is a Personal one page Portfolio HTML Template, luxury and trendy for personal use, resume or portfolio websites. It is a very simple, clean and minimalist template. The template looks great and it will appeal to fans of minimalist style. Template content is based on HTML5 – CSS3 – Bootstrap v3 System.  📌Main features:  ✔HTML5 &amp; CSS3 ✔Pixel Perfect Design ✔Responsive Design ✔User Friendly Code ✔Clean Markup ✔Creative Design ✔Cross Browser Support ✔Powered With Bootstrap 3 ✔Used font awesome icon ✔Google Font ✔Google Map ✔Fast Page Loading ✔Amazing Megamenu ✔Easy to customize ✔Smooth animation ✔W3C Validated Code ✔Well Documented ✔Quick View Product ✔And Much More!  ============📌Source &amp; Credits ============= BootStrap 4 Google font Javascript Jquery Library Font Awesome 5 =========== Thanks ======== please dont Forget to Leave your Feedback.  ☑️N.B: I develop this template for my client. That Why Donto Share this Code.  
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/00akibswe/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/00akibswe/Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
